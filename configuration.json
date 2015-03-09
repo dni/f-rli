@@ -1,5 +1,5 @@
 {
-    "port": "6666",
+    "port": "4666",
     "dbname": "fuerli",
     "adminroute": "admin"
 }
